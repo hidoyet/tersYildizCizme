@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.print("Üçgen kaç satırdan oluşacak: ");
+		System.out.print("ÃœÃ§gen kaÃ§ satÄ±rdan oluÅŸacak: ");
 		Scanner scanner=new Scanner(System.in);
 		int n=scanner.nextInt();
 		for(int i=1;i<=n;i++) {
